@@ -28,3 +28,9 @@
   font-family: var(--header-font);
   color: var(--text-dark);
 }
+
+.section__subheader {
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  color: var(--text-light);
+}
