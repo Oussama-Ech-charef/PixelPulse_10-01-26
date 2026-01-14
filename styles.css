@@ -102,3 +102,9 @@ nav {
   z-index: 99;
   box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
 }
+.nav__logo a {
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: var(--header-font);
+  color: var(--text-dark);
+}
