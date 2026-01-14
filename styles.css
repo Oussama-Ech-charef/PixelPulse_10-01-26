@@ -66,3 +66,7 @@
   font-size: 1.2rem;
   transition: 0.3s;
 }
+
+.btn__link:hover span {
+  transform: translateX(10px);
+}
