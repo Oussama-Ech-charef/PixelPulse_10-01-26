@@ -70,3 +70,8 @@
 .btn__link:hover span {
   transform: translateX(10px);
 }
+img {
+  display: flex;
+  width: 100%;
+}
+
